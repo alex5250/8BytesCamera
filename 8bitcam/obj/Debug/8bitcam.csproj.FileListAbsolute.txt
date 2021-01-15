@@ -1,0 +1,17 @@
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\bin\Debug\8bitcam.exe.config
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\bin\Debug\8bitcam.exe
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\bin\Debug\8bitcam.pdb
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam.csprojAssemblyReference.cache
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\MainWindow.g.cs
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\App.g.cs
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam_MarkupCompile.cache
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam_MarkupCompile.lref
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\MainWindow.baml
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam.g.resources
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\_8bitcam.Properties.Resources.resources
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam.csproj.GenerateResource.cache
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam.csproj.CoreCompileInputs.cache
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam.exe
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam.pdb
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\bin\Debug\System.Drawing.Common.dll
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Debug\8bitcam.csproj.CopyComplete

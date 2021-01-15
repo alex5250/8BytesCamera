@@ -1,0 +1,16 @@
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\bin\Release\8bitcam.exe.config
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\bin\Release\8bitcam.exe
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\bin\Release\8bitcam.pdb
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\bin\Release\System.Drawing.Common.dll
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\MainWindow.g.cs
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\App.g.cs
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\8bitcam_MarkupCompile.cache
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\8bitcam_MarkupCompile.lref
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\MainWindow.baml
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\8bitcam.g.resources
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\_8bitcam.Properties.Resources.resources
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\8bitcam.csproj.GenerateResource.cache
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\8bitcam.csproj.CoreCompileInputs.cache
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\8bitcam.csproj.CopyComplete
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\8bitcam.exe
+C:\Users\AlexPC\source\repos\8bitcam\8bitcam\obj\Release\8bitcam.pdb
