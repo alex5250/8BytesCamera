@@ -6,3 +6,8 @@ Intersted. Give me a start and Make this project.
 The simple BreadBoard design
 
 <img src="https://i.imgur.com/NdZnRVp.png"></img>
+
+
+Schematic:
+
+<img src="https://i.imgur.com/dvXmpER.png"></img>
