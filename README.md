@@ -18,4 +18,4 @@ The 4x2 PCB :
 
 
 The 8x1 PCB: 
-<img src="https://imgur.com/xhDCBkK.png> </img>
+<img src="https://imgur.com/xhDCBkK.png"> </img>
