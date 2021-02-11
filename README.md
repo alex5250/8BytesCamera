@@ -11,3 +11,7 @@ The simple BreadBoard design
 Schematic:
 
 <img src="https://i.imgur.com/dvXmpER.png"></img>
+
+
+The 4x2 PCB : 
+<img src="https://imgur.com/yDhbbmW.png"> </img>
