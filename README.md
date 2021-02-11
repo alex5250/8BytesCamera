@@ -15,3 +15,7 @@ Schematic:
 
 The 4x2 PCB : 
 <img src="https://imgur.com/yDhbbmW.png"> </img>
+
+
+The 8x1 PCB: 
+<img src="https://imgur.com/xhDCBkK.png> </img>
